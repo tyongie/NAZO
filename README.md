@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<NAZO GALLERY>
 <html lang="en">
 
 <head>
