@@ -7,7 +7,7 @@
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'>
   <link rel="stylesheet" href="./style.css">
 <style>
-  @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;400&display=swap");
 
 * {
   box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
 .slider {
   position: relative;
   width: 100vw;
-  height: 150vh;
+  height: 100vh;
   overflow: hidden;
 }
 
