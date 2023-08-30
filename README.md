@@ -35,7 +35,7 @@ body {
   width: 100%;
   height: 100%;
   opacity: 0;
-  transition: opacity 0.4s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
 }
 
 .slide.current {
@@ -357,7 +357,7 @@ body {
   color: #362a2b;
 }
 
-@media (min-width: 640px) and (min-height: 640px) {
+@media (min-width: 1400px) and (min-height: 1400px) {
   .slide .content {
     bottom: 70px;
     left: -600px;
