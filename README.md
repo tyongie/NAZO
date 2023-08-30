@@ -24,7 +24,7 @@ body {
 .slider {
   position: relative;
   width: 400vw;
-  height: 900vh;
+  height: 400vh;
   overflow: hidden;
 }
 
