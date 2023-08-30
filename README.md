@@ -357,7 +357,7 @@ body {
   color: #362a2b;
 }
 
-@media (min-width: 1400px) and (min-height: 1400px) {
+@media (min-width: 640px) and (min-height: 640px) {
   .slide .content {
     bottom: 70px;
     left: -600px;
